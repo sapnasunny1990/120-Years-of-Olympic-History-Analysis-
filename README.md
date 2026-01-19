@@ -47,4 +47,24 @@ This project presents an interactive Power BI dashboard built using 120 Years of
 ---
 📊 Dashboard Preview
 ---
-Home
+Home Page
+---
+![Home Page](Home.png)
+
+Athlete Page
+---
+![Athlete Page](Athlete.png)
+
+Medal Page
+---
+![Medal Page](Medal.png)
+
+Country Page
+---
+![Country Page](Country.png)
+
+
+
+
+
+
