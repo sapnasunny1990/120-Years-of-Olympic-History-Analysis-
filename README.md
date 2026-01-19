@@ -5,7 +5,7 @@ Interactive Power BI dashboards built on 120 years of Olympic data, providing in
 🌟 Overview
 ---
 
-This project presents an interactive Power BI dashboard built using 120 Years of Olympic History (Athletes & Results) data. The goal of this project is to transform raw       historical sports data into meaningful insights that support data-driven storytelling and decision-making.The analysis focuses on  historical trends, athlete performance, medal distribution,country-wise participation, age-based trends, and gender analysis across multiple Olympic editions. Advanced DAX measures,calculated column, Power Query transformations, and data modeling techniques were used to ensure accurate calculations and smooth drill-through navigation between report pages.
+This project presents an interactive Power BI dashboard built using 120 Years of Olympic History (Athletes & Results) data. The goal of this project is to transform raw historical sports data into meaningful insights that support data-driven storytelling and decision-making.The analysis focuses on  historical trends, athlete performance, medal distribution,country-wise participation, age-based trends, and gender analysis across multiple Olympic editions. Advanced DAX measures,calculated column, Power Query transformations, and data modeling techniques were used to ensure accurate calculations and smooth drill-through navigation between report pages.
 
   ---
 ⚡Key Highlights
@@ -14,11 +14,7 @@ This project presents an interactive Power BI dashboard built using 120 Years of
 - Cleaned and transformed raw data using Power Query
 - Built an optimized data model with proper relationships
 - Developed DAX measures for medal, athlete, country, sport, and event counts and calculated column for age group
-- Designed interactive visuals with drill-through,
-   bookmarks and slicers
-- Created interactive report pages such as Home, Athlete, Medal,
-  Country,
-  and enabling detailed insights through drill-through navigation
+- Built an interactive, multi-page Power BI dashboard (Home, Athlete, Medal, Country) with drill-throughs,bookmark,KPIs,slicers,maps, and trend analysis to present insights clearly for decision-making and storytelling.
 - Applied best practices in dashboard layout,
   color consistency, and usability
 
