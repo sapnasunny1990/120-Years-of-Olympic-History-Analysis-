@@ -5,7 +5,18 @@ Interactive Power BI dashboards built on 120 years of Olympic data, providing in
 🌟 Overview
 ---
 
-This project presents an interactive Power BI dashboard built using 120 Years of Olympic History (Athletes & Results) data. The goal of this project is to transform raw historical sports data into meaningful insights that support data-driven storytelling and decision-making.The analysis focuses on  historical trends, athlete performance, medal distribution,country-wise participation, age-based trends, and gender analysis across multiple Olympic editions. Advanced DAX measures,calculated column, Power Query transformations, and data modeling techniques were used to ensure accurate calculations and smooth drill-through navigation between report pages.
+This project focuses on analyzing 120 years of Olympic Games data using Power BI and Excel to uncover meaningful insights related to athlete participation & performance, medal performance, and country-wise participation and performance.
+The objective is to demonstrate data analysis, data modeling, DAX calculations, and data visualization skills through an end-to-end analytics project.
+This project is designed to showcase real-world data analytics skills suitable for entry-level Data Analyst / Business Intelligence roles.
+
+  ---
+🎯 Objectives
+---
+- Analyze historical Olympic data across multiple editions
+- Understand athlete participation trends by gender, age, and country
+- Evaluate medal distribution and country performance
+- Build interactive dashboards for data-driven decision-making
+- Apply best practices in data modeling and visualization
 
   ---
 ⚡Key Highlights
@@ -19,13 +30,44 @@ This project presents an interactive Power BI dashboard built using 120 Years of
   color consistency, and usability
 
   ---
-  🛠 Tools & Technologies
+📊 Key Analysis Areas
+---
+- Historical Analysis: Olympic participation trends over time
+- Athlete Participation Analysis: Gender-wise, age-group, and country-wise athlete insights
+- Athlete Performance Analysis: Medal-winning patterns and top athletes
+- Medal Performance Analysis: Gold, Silver, Bronze distribution by country
+- Country Participation & Performance: Comparison of participation vs medal outcomes
+
+---
+🛠 Tools & Skills
   ---
 - Microsoft Excel
 - Power BI
 - Power Query
-- DAX
+- DAX (Measures & Calculated Columns)
+- Data Modeling (Star Schema)
+- Data Cleaning & Transformation
+- Data Visualization & Dashboard Design
 
+---
+📐 Data Model
+---
+- Implemented a star schema for optimized performance
+- Created fact and dimension tables
+- Established one-to-many relationships
+- Used calculated columns and measures for accurate analysis
+
+---
+📈 Dashboard Features
+---
+- Multi-page interactive dashboard:
+  - Home
+  - Athlete 
+  - Medal
+  - Country
+- Drill-through and filtering for deeper insights
+- KPI cards, bar charts, line charts, maps, and tables
+- User-friendly layout and consistent design
 ---
 🔍 Key Insights
 ---
@@ -41,7 +83,15 @@ This project presents an interactive Power BI dashboard built using 120 Years of
 - noc_regions.csv
 
 ---
+🚀 Learnings & Skills Gained
+---
+- Hands-on experience with Power BI dashboards
+- Writing optimized DAX measures
+- Practical data modeling techniques
+- Translating raw data into actionable insights
+- Improving data storytelling and visualization skills
 
+---
 📊 Dashboard Preview
 ---
 Home Page
